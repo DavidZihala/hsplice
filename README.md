@@ -335,6 +335,7 @@ HSPlice is released under the [MIT License](LICENSE).
 ## Authors
 - David Zihala
 - Martin Kolisko
+- Serafim Nenarokov
 
 ## Acknowledgements
 This work was supported by the European Union project LERCO (number CZ.10.03.01/00/22_003/0000003).
