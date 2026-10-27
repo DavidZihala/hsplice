@@ -91,7 +91,7 @@ one that fits all queries of that gene best is written.
 ## Installation
 
 ```
-git clone https://github.com/<your-username>/hsplice.git
+git clone https://github.com/DavidZihala/hsplice.git
 cd hsplice
 pip install biopython tqdm
 chmod +x hsplice.py
