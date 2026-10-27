@@ -164,7 +164,7 @@ hsplice.py [options] PROTEINS GENOME BLAST_XML ORGANISM OUTPUT
 
 | Option | Description |
 |---|---|
-| `-g`, `--gff FILE` | Also write the exon coordinates of the models as GFF3. |
+| `-g`, `--gff FILE` | Write the exon coordinates of the models as GFF3. |
 
 ### Gene model
 
